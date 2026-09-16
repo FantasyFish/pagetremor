@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🍃 风吹页动 · 网页变化及时提醒
+<img src="assets/logo-128.png" width="112" alt="风吹页动 · 网页变化及时提醒 扩展图标">
+
+# 风吹页动 · 网页变化及时提醒
 
 **PageTremor** — 本地优先的网页变化提醒扩展，让浏览器替你盯网页
 
