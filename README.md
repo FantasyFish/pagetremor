@@ -6,8 +6,8 @@
 
 **PageTremor** — 本地优先的网页变化提醒扩展，让浏览器替你盯网页
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-安装入口占位-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](CHROME_STORE_URL_PLACEHOLDER)
-[![Edge Add-ons](https://img.shields.io/badge/Edge_Add-ons-安装入口占位-0d9488?style=for-the-badge&logo=microsoftedge&logoColor=white)](EDGE_ADDONS_URL_PLACEHOLDER)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-立即安装-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/aebpknmodioohogcnnfphaafheokcffk)
+[![Edge Add-ons](https://img.shields.io/badge/Edge_Add-ons-立即安装-0d9488?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/mocjflgljnofcjhbgammflpgkcjekgdi)
 [![反馈](https://img.shields.io/badge/意见反馈-GitHub_Issues-115e59?style=for-the-badge&logo=github)](https://github.com/FantasyFish/pagetremor/issues)
 
 *定时监测网页指定区域、RSS 与 JSON API 的内容变化，多级内容读取策略 + Diff 对比，多渠道及时提醒。*
@@ -33,7 +33,7 @@
 
 ## 🚀 快速上手
 
-1. 安装扩展后，点击工具栏图标打开弹窗，点 **🎯 拾取** 圈选要监测的网页区域；
+1. 从 Chrome 应用商店 / Edge 加载项商店一键安装扩展（也可加载 release 发布包），然后点击工具栏图标打开弹窗，点 **🎯 拾取** 圈选要监测的网页区域；
 2. 设置检测间隔与通知方式，保存任务；
 3. 内容变化时，通知自动送达 —— 从此告别手动刷新。
 
